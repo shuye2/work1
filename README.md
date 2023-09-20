@@ -51,6 +51,7 @@ plt.show()
 
 
 
+
 使用梯度下降法来寻找函数$f(x, y) = (x - 2)^2 + (y - 3)^2$的最小值点
 import numpy as np
 import matplotlib.pyplot as plt
